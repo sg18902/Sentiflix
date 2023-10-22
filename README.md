@@ -1,7 +1,5 @@
 # Sentiflix
 
-![Logo](https://pngimg.com/d/netflix_PNG22.png)
-
 This project is aimed at sentiment analysis of movie reviews. It utilizes Natural Language Processing (NLP) techniques and Machine Learning (ML) models to classify reviews as positive or negative.
 
 ## Technologies Used
